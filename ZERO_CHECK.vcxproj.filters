@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Downloads\Copy Code - Copy\files\Files\build\CMakeFiles\37e1a05554ee69e8eb0565b19abbd782\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A924D94C-E885-3C23-88F7-6C8CAC7643AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
